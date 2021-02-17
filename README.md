@@ -33,13 +33,13 @@ O desafio é realizar o desenvolvimento front-end da homepage de um jornal fict�
 ## Arquivos
 - Layout [aqui](Arquivos/Layout)
 - Imagens [aqui](Arquivos/Imagens)
-- JSONS [aqui](Arquivos/JSON)
+- JSONs [aqui](Arquivos/JSON)
 
 ## Como submeter seu projeto
 - Fork esse projeto
 - Coloque seu projeto no repositório
 - Escreva no arquivo README.md as instruções para rodar o mesmo 
-- Envie o link do repositório para daniel.lima@oglobo.com.br, com o assunto: TESTE - Front-End O Globo
-- *Se puder subir o projeto em algum lugar para facilitar a visualização, será um diferencial.*
+- Envie o link do repositório para vinicius.machado@infoglobo.com.br, com o assunto: TESTE - Front-End O Globo
+- *Se puder subir o projeto em algum servidor para facilitar a visualização, será um diferencial.*
 
 ## Boa sorte!
