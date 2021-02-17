@@ -22,13 +22,12 @@ O desafio é realizar o desenvolvimento front-end da homepage de um jornal fict�
 * O mapa pode ser Google Maps ou OpenStreetMap.
 
 ## Observações
-* Não usar jQuery. Usar React (de preferência com hooks) ou ES6+ vanilla.
+* Usar React (com hooks). Caso não saiba React, pode ser ES6+ vanilla.
 * Você está livre para escolher a estrutura de diretórios da aplicação 
 * Preferencialmente, usar SASS para o CSS.
 * Você não deve utilizar nenhum framework CSS (Bootstrap, Foundation e etc) neste desafio.
 * Os arquivos .json não podem ser alterados.
 * Mesmo não havendo layout, é imprescindível existir uma versão funcional para mobile. Sinta-se livre para fazer as alterações visuais necessárias para tal (como por exemplo um menu hambúrguer, se preferir).
-* Dúvida? Entre em contato por email: daniel.lima@oglobo.com.br
 
 ## Arquivos
 - Layout [aqui](Arquivos/Layout)
@@ -36,10 +35,10 @@ O desafio é realizar o desenvolvimento front-end da homepage de um jornal fict�
 - JSONs [aqui](Arquivos/JSON)
 
 ## Como submeter seu projeto
-- Fork esse projeto
-- Coloque seu projeto no repositório
+- Clone este projeto e suba no repositório de sua preferência
 - Escreva no arquivo README.md as instruções para rodar o mesmo 
+- Se puder subir o projeto em algum servidor para facilitar a visualização, será um diferencial.
 - Envie o link do repositório para vinicius.machado@infoglobo.com.br, com o assunto: TESTE - Front-End O Globo
-- *Se puder subir o projeto em algum servidor para facilitar a visualização, será um diferencial.*
+- Em caso de qualquer dúvida, sinta-se livre para entrar em contato com o e-mail acima.
 
 ## Boa sorte!
